@@ -45,6 +45,7 @@ private static void GetDistinct_Objects() {
 	Person p4=new Person(4,"alfio","rosso");
 	Person p5=new Person(4,"alo","rossi");
 	Person p6=new Person(3,"CARMINE","rossi");
+	Person p7=new Person(3,"CARMINE","bianchei");
 	
 	//Add some random personshttps://howtodoinjava.com/java8/stream-find-remove-duplicates/
 	List<Person> list = Arrays.asList(p1, p2, p3, p4, p5, p6);
