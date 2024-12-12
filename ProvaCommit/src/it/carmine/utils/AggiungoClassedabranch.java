@@ -50,7 +50,7 @@ private static void GetDistinct_Objects() {
 	//Add some random personshttps://howtodoinjava.com/java8/stream-find-remove-duplicates/
 	List<Person> list = Arrays.asList(p1, p2, p3, p4, p5, p6);
 	for (Person persona : list) {
-	    //System.out.println(persona.getFname()); 
+	    System.out.println(persona.getFname()); 
 	}
 
 	// Get distinct people by full name
