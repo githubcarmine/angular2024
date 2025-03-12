@@ -17,6 +17,7 @@ public class AggiungoClassedabranch {
 System.out.println("Ciao Come va aggiungo classeaaaa");
 System.out.println("Aggiungo seconda classe");
 System.out.println("Aggiungo terza classe classe");
+System.out.println("Aggiungo quarta classe");
 removeDuplicate();
 GetDistinct_Objects();
 	}
