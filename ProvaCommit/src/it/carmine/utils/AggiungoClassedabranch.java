@@ -19,6 +19,7 @@ System.out.println("Aggiungo seconda classe");
 System.out.println("Aggiungo terza classe classe");
 System.out.println("Aggiungo quarta classe");
 System.out.println("2026");
+System.out.println("NUovobranc");
 removeDuplicate();
 GetDistinct_Objects();
 	}
